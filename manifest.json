@@ -1,0 +1,8 @@
+{
+    "name": "${modName}",
+    "entry": "${modFile}",
+    "version": "${modVersion}",
+    "type": "native",
+    "author": "LL-Mod-Example | LeviLamina 模组模板",
+    "description": "LL-Mod-Example organizes sample module templates | LL-Mod-Example 组织示例模组模板"
+}
